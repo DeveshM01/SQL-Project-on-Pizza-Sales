@@ -9,7 +9,7 @@ Functions Used: VLOOKUP, IF, TRIM, CONCATENATE, and various text functions.
 Skills Demonstrated: Attention to detail, problem-solving, data wrangling.
 Connecting Excel to SQL:
 
-Tool Used: SQL Server, MySQL, or any SQL database that supports Excel integration.
+Tool Used:  MySQL for Excel integration.
 Skills Demonstrated: Technical proficiency, database management.
 
 # Performing SQL Queries:
